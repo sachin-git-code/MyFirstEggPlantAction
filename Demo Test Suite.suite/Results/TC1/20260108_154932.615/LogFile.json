@@ -1,0 +1,68 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 15:49:32.621 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:49:32.873 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "TC1.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:49:33.625 +0530",
+				"message": "[returnKey]",
+				"scriptName": "TC1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:49:33.629 +0530",
+				"message": "Assertion Warning:  (assertion: 3+3 > 10; actually: 6 IS NOT greater than 10)",
+				"scriptName": "TC1.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:49:35.222 +0530",
+				"message": "abc",
+				"scriptName": "TC1.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:49:35.228 +0530",
+				"message": "Assertion Warning:  (assertion: qut contains \"rich\"; actually: become poor by giving DOES NOT contain rich)",
+				"scriptName": "TC1.script",
+				"handlerLine": 14,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:49:36.071 +0530",
+				"message": "abc",
+				"scriptName": "TC1.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"3.548\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 15:49:32 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"2\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 15:49:36.179 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:03 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 15:49:36.240 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 15:49:32.629 +0530"
+}

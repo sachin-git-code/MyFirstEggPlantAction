@@ -1,0 +1,3 @@
+﻿2026-01-08 22:34:51.476 +0530	START		Running New/TC3.script
+2026-01-08 22:34:51.602 +0530	EndTestCase		(Duration:"0.122", Errors:"1", Exceptions:"0", StartTime:"2026-01-08 22:34:51 +0530", Successes:"0", TestCase:"New/TC3.script", Warnings:"0")
+2026-01-08 22:34:51.991 +0530	FAILURE	Screen_Error.png	STInvalidNumber: Value is not a number: '999 to 10' -- Execution Time 0:00:00 New/TC3.script

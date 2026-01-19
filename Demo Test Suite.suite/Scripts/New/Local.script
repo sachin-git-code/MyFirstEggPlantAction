@@ -1,0 +1,14 @@
+﻿put "hello" into greet
+
+put greet
+
+put generategreet()
+
+put greet
+
+to generategreet
+	put "hey" into greet
+	return greet & "1"
+end generategreet
+
+

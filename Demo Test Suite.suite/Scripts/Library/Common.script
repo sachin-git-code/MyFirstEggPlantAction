@@ -1,0 +1,11 @@
+﻿
+to handle OpenSite appurl
+	DoubleClick image: "Chrome" // Icon
+	waitfor 20, image: "Refresh" // Icon
+	typeText appurl, returnkey
+	waitfor 20, image: "nopCommerce" // Logo
+	TypeText windowskey, uparrow // Maximize window
+end OpenSite
+
+
+

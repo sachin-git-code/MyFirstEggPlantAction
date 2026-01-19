@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Untitled-API">
+ <run>
+  <RunDate>2026-01-13 23:07:24.828 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.092000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260113_230724.828/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-13 23:08:36.332 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.831000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260113_230836.332/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-13 23:09:15.598 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.703000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260113_230915.598/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

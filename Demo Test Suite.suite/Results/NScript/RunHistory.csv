@@ -1,0 +1,8 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-12 21:35:10.330 +0530,"Failure",0:00:00,1,0,0,"20260112_213510.330/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'opensite'",0
+2026-01-12 21:35:56.116 +0530,"Aborted",0:00:28,1,0,1,"20260112_213556.116/LogFile.txt","","",0
+2026-01-12 21:36:32.603 +0530,"Success",0:00:12,0,0,0,"20260112_213632.603/LogFile.txt","","",1
+2026-01-12 21:37:29.015 +0530,"Aborted",0:00:06,1,0,1,"20260112_213729.015/LogFile.txt","","",0
+2026-01-12 21:39:07.382 +0530,"Success",0:00:15,0,0,0,"20260112_213907.382/LogFile.txt","","",1
+2026-01-13 15:43:40.687 +0530,"Aborted",0:00:19,1,0,0,"20260113_154340.687/LogFile.txt","","",0
+2026-01-13 15:44:02.023 +0530,"Success",0:00:31,0,0,0,"20260113_154402.023/LogFile.txt","","",1

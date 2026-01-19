@@ -1,0 +1,50 @@
+{
+	"originalcapturelocation": [
+		126,
+		674,
+		86,
+		24
+	],
+	"lastmodifieddate": 1767679244.819,
+	"createddate": 1767678926.6399999,
+	"name": "Run OK button",
+	"lastfounddate": 1767679219.0840001,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		126,
+		674,
+		86,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 62950,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,15]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "Run OK button.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					126,
+					674,
+					86,
+					24
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "OK"
+			}
+	]
+}

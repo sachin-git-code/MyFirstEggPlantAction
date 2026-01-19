@@ -1,0 +1,3 @@
+﻿2026-01-12 22:19:42.372 +0530	START		Running Library/Tst2.script
+2026-01-12 22:19:42.553 +0530	EndTestCase		(Duration:"0.173", Errors:"0", Exceptions:"0", StartTime:"2026-01-12 22:19:42 +0530", Successes:"1", TestCase:"Library/Tst2.script", Warnings:"0")
+2026-01-12 22:19:42.667 +0530	SUCCESS		Execution Time 0:00:00 Library/Tst2.script

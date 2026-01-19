@@ -1,0 +1,12 @@
+﻿Common.OpenSite "https://demo.nopcommerce.com"
+
+set the searchRectangle to [0,1,1919,625]
+moveTo text:"Computers"
+wait 1 // Optimises OCR
+click text:"Desktops"
+wait 1.5 // Optimises OCR
+waitfor 20, text:"Categories"
+doubleclick text:"Categories"
+typetext controlkey,c
+put the remoteClipboard into nameofb
+log nameofb

@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		72,
+		106,
+		80,
+		84
+	],
+	"lastmodifieddate": 1767983328.598,
+	"createddate": 1767983328.598,
+	"name": "Prometheus1/Prometheus1_copy",
+	"lastfounddate": 1767983329.1630001,
+	"ocrcapturestring": "ltZf»)nl4iil4»ft",
+	"lastfoundlocation": [
+		72,
+		106,
+		80,
+		84
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 56813,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[40,42]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "Prometheus1/Prometheus1_copy.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					72,
+					106,
+					80,
+					84
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "ltZf»)nl4iil4»ft"
+			}
+	]
+}

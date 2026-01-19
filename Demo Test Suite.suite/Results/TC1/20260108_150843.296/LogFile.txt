@@ -1,0 +1,4 @@
+﻿2026-01-08 15:08:43.307 +0530	START		Running TC1.script
+2026-01-08 15:09:00.568 +0530	Exception	image0002	No Image Found On Screen: "image0002"	1	on_tc1	TC1.script
+2026-01-08 15:09:00.649 +0530	EndTestCase		(Duration:"17.336", Errors:"1", Exceptions:"1", StartTime:"2026-01-08 15:08:43 +0530", Successes:"0", TestCase:"TC1.script", Warnings:"0")
+2026-01-08 15:09:00.666 +0530	ABORTED		Execution Time 0:00:17 TC1.script

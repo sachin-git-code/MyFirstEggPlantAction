@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-06 11:20:46.400 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-06 11:20:46.755 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "TC1.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-06 11:20:48.917 +0530",
+				"message": "chrome.exe https://www.wikipedia.com",
+				"scriptName": "TC1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-06 11:20:49.966 +0530",
+				"message": "[return]",
+				"scriptName": "TC1.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3.604\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-06 11:20:46 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-06 11:20:50.026 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:03 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-06 11:20:50.267 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-06 11:20:46.415 +0530"
+}

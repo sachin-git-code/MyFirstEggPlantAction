@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-12 21:30:35.950 +0530,"Failure",0:00:00,1,0,0,"20260112_213035.950/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Common'.",0
+2026-01-12 21:32:40.933 +0530,"Failure",0:00:00,1,0,0,"20260112_213240.933/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Common'.",0
+2026-01-13 11:32:44.509 +0530,"Failure",0:00:00,1,0,0,"20260113_113244.509/LogFile.txt","","SenseTalk Compiler Exception -- in tst1:\nSyntax Error at line 17: can't understand ""into"" at character 54",0

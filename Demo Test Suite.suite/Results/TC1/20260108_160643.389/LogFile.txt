@@ -1,0 +1,11 @@
+﻿2026-01-08 16:06:43.397 +0530	START		Running TC1.script
+2026-01-08 16:06:43.536 +0530	typetext		[windowsKey]r	1	on_tc1	TC1.script
+2026-01-08 16:06:44.274 +0530	typetext		[returnKey]	2	on_tc1	TC1.script
+2026-01-08 16:06:44.290 +0530	LogSuccess		Assertion Succeeded:  (assertion: 3+3 < 10; true: 6 IS less than 10)	8	on_tc1	TC1.script
+2026-01-08 16:06:44.300 +0530	Log		abc	10	on_tc1	TC1.script
+2026-01-08 16:06:44.306 +0530	LogWarning		Assertion Warning:  (assertion: qut contains "rich"; actually: become poor by giving DOES NOT contain rich)	14	on_tc1	TC1.script
+2026-01-08 16:06:53.029 +0530	Log		abc	16	on_tc1	TC1.script
+2026-01-08 16:06:53.089 +0530	mousebuttondown		Button:3	24	on_tc1	TC1.script
+2026-01-08 16:06:55.130 +0530	moveto		at (50, 50)	26	on_tc1	TC1.script
+2026-01-08 16:06:56.475 +0530	EndTestCase		(Duration:"13.072", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 16:06:43 +0530", Successes:"1", TestCase:"TC1.script", Warnings:"1")
+2026-01-08 16:06:56.551 +0530	SUCCESS		Execution Time 0:00:13 TC1.script

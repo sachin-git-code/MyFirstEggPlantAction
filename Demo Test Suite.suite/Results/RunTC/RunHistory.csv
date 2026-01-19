@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-08 16:26:29.385 +0530,"Aborted",0:00:12,1,0,0,"20260108_162629.385/LogFile.txt","","",0
+2026-01-08 16:27:09.418 +0530,"Aborted",0:00:17,1,0,0,"20260108_162709.418/LogFile.txt","","",0
+2026-01-08 16:28:07.660 +0530,"Failure",0:00:00,1,0,1,"20260108_162807.660/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Holidaycalendar",0
+2026-01-08 16:28:48.298 +0530,"Success",0:00:07,0,1,0,"20260108_162848.298/LogFile.txt","","",1
+2026-01-08 16:29:39.369 +0530,"Success",0:00:00,0,0,0,"20260108_162939.369/LogFile.txt","","",1
+2026-01-08 16:30:01.514 +0530,"Success",0:00:00,0,0,0,"20260108_163001.514/LogFile.txt","","",1
+2026-01-08 16:30:17.157 +0530,"Success",0:00:00,0,0,0,"20260108_163017.157/LogFile.txt","","",1
+2026-01-08 16:32:25.450 +0530,"Success",0:00:02,0,0,0,"20260108_163225.450/LogFile.txt","","",1

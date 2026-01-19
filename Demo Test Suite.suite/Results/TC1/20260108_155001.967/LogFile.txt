@@ -1,0 +1,6 @@
+﻿2026-01-08 15:50:01.979 +0530	START		Running TC1.script
+2026-01-08 15:50:02.195 +0530	typetext		[windowsKey]r	1	on_tc1	TC1.script
+2026-01-08 15:50:02.933 +0530	typetext		[returnKey]	2	on_tc1	TC1.script
+2026-01-08 15:50:02.940 +0530	LogWarning		Assertion Warning:  (assertion: 3+3 > 10; actually: 6 IS NOT greater than 10)	8	on_tc1	TC1.script
+2026-01-08 15:50:05.529 +0530	EndTestCase		(Duration:"3.543", Errors:"1", Exceptions:"0", StartTime:"2026-01-08 15:50:01 +0530", Successes:"0", TestCase:"TC1.script", Warnings:"1")
+2026-01-08 15:50:05.540 +0530	ABORTED		Execution Time 0:00:03 TC1.script

@@ -1,0 +1,5 @@
+﻿2026-01-08 15:13:37.661 +0530	START		Running TC1.script
+2026-01-08 15:13:37.881 +0530	typetext		[windowsKey]r	1	on_tc1	TC1.script
+2026-01-08 15:13:38.619 +0530	typetext		[returnKey]	2	on_tc1	TC1.script
+2026-01-08 15:13:38.673 +0530	EndTestCase		(Duration:"1.003", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 15:13:37 +0530", Successes:"1", TestCase:"TC1.script", Warnings:"0")
+2026-01-08 15:13:38.999 +0530	SUCCESS		Execution Time 0:00:01 TC1.script

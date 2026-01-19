@@ -1,0 +1,4 @@
+﻿2026-01-13 23:07:24.831 +0530	START		Running Untitled.apitest
+2026-01-13 23:07:25.907 +0530	LogSuccess		Assertion Succeeded:  (assertion: api().statuscode is "200"; true: 200 IS equal to 200)	2	on_untitled	C:/Eggplant/Demo Test Suite.suite/APITests/Untitled.apitest
+2026-01-13 23:07:25.921 +0530	EndTestCase		(Duration:"1.087", Errors:"0", Exceptions:"0", StartTime:"2026-01-13 23:07:24 +0530", Successes:"1", TestCase:"Untitled.apitest", Warnings:"0")
+2026-01-13 23:07:25.952 +0530	SUCCESS		Execution Time 0:00:01 Untitled.apitest

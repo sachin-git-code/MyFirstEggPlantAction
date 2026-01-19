@@ -1,0 +1,54 @@
+﻿put "March 04, 1996" into bdate
+put today
+put (today - bdate) rounded to the nearest years
+
+set animals to [giraffe,pony,lion,mouse]
+put animals
+
+put item 1 of animals
+
+insert cat into animals
+
+put animals
+
+delete pony from animals
+
+put animals
+
+set prlst to {name:"a", age:1, color:"red",heiht:1}
+put prlst
+put the keys of prlst
+put the values of prlst
+
+put keyforvalue(prlst, a)
+put allkeysforvalue(prlst,1)
+
+put 5hours as minute
+put 3cm as mm
+put 100kg as lbs
+put 4 ft as inches
+
+put "Hello"
+put "hello"
+put "HELLO"
+
+turn the caseSensitive On
+put "Hello" into sal
+put sal begins with "h" ignoring case
+
+beep 1
+
+
+SetVaultValue vaultID:"xyz", value:"passw"
+SetVaultValue vaultID:"abc", value:"password1"
+
+//SetOption ScriptLogging,Silent
+set mypas to GetVaultValue("abc")
+Log "Password is" && mypas
+SetOption ScriptLogging,On
+
+log GetVaultValue("xyz")
+TypeHiddenText mypas,Return
+
+
+

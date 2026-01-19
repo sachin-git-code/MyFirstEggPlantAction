@@ -1,0 +1,99 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/Common.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 21:25:29.711 +0530"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:30.090 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "at (42, 643)",
+				"image": "Chrome",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:32.552 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "found at (94, 60)",
+				"image": "Refresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:33.451 +0530",
+				"message": "https://demo.nopcommerce.com[returnKey]",
+				"scriptName": "Library/Common.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:35.058 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "found at (315, 189)",
+				"image": "nopCommerce",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:35.117 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "Library/Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:35.129 +0530",
+				"message": "SEARCHRECTANGLE = [0,1,1919,625]",
+				"scriptName": "Library/Common.script",
+				"handlerLine": 7,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:37.289 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "at (250, 290)",
+				"image": "(TEXT:\"Computers\")",
+				"handlerLine": 8,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:40.327 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "at (260, 331)",
+				"image": "(TEXT:\"Desktops\")",
+				"handlerLine": 10,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:25:43.311 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "found at (243, 442)",
+				"image": "(TEXT:\"Categories\")",
+				"handlerLine": 12,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"13.655\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-12 21:25:29 +0530\", Successes:\"0\", TestCase:\"Library/Common.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 21:25:43.372 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: set Error - Invalid Rectangle: 0 -- Execution Time 0:00:13 Library/Common.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-12 21:25:43.651 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 21:25:29.716 +0530"
+}

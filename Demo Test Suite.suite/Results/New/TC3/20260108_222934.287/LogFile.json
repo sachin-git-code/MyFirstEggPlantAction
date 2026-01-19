@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running New/TC3.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 22:29:34.293 +0530"
+			},
+		{
+				"message": "(Duration:\"0.13\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-08 22:29:34 +0530\", Successes:\"0\", TestCase:\"New/TC3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 22:29:34.427 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "InvalidCommandOrRange: Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got \"hi\" TO \"greeting\") -- Execution Time 0:00:00 New/TC3.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-08 22:29:34.776 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 22:29:34.296 +0530"
+}

@@ -1,0 +1,3 @@
+﻿2026-01-10 12:14:29.047 +0530	START		Running New/DateTTime.script
+2026-01-10 12:14:29.186 +0530	EndTestCase		(Duration:"0.127", Errors:"0", Exceptions:"0", StartTime:"2026-01-10 12:14:29 +0530", Successes:"1", TestCase:"New/DateTTime.script", Warnings:"0")
+2026-01-10 12:14:29.249 +0530	SUCCESS		Execution Time 0:00:00 New/DateTTime.script

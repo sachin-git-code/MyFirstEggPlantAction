@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Library/Tst1">
+ <run>
+  <RunDate>2026-01-12 21:30:35.950 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.192000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_213035.950/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Common&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 21:32:40.933 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.151000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_213240.933/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Common&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-13 11:32:44.509 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.028000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260113_113244.509/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in tst1:
+Syntax Error at line 17: can&#x27;t understand &quot;into&quot; at character 54</ErrorMessage>
+ </run>
+</runHistory>

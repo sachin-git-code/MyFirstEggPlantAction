@@ -1,0 +1,33 @@
+﻿set myexcel to {type:"excel", file:resourcePath("Eggie.xlsx"),writable:Yes} //use writable true to update value in excel if not then value won't get updates in excel
+
+put table "Sheet1" of myexcel into PTable
+
+put the record of pTable where name is "abc" into record1
+
+put record1
+
+put 29 into record1's age
+
+put record1
+
+put record1 is a record
+
+put records of myexcel
+---------------------------------------
+
+put Resourcepath("Eggie.xlsx") into var
+set myWrkBk to workbook(var)
+put the worksheetNames of myWrkBk
+
+put worksheet("Sheet1") of myWrkBk into Pep
+
+put Pep
+
+put cell("B2") of pep into myCell
+
+put myCell
+
+add 3 to cell("B2") of worksheet("Sheet1") of workbook(var)
+
+
+

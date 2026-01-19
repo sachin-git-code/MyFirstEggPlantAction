@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-12 21:24:06.875 +0530,"Failure",0:00:03,1,0,1,"20260112_212406.875/LogFile.txt","","File Not Found -- WaitFor Error - Could Not Open Image: nopCommerce",0
+2026-01-12 21:25:08.503 +0530,"Failure",0:00:11,1,0,1,"20260112_212508.503/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Chrome""",0
+2026-01-12 21:25:29.702 +0530,"Failure",0:00:13,1,0,0,"20260112_212529.702/LogFile.txt","","Error Running Script Command -- set Error - Invalid Rectangle: 0",0

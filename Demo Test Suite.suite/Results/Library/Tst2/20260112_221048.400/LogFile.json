@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/Tst2.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 22:10:48.410 +0530"
+			},
+		{
+				"message": "(Duration:\"0.169\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-12 22:10:48 +0530\", Successes:\"0\", TestCase:\"Library/Tst2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 22:10:48.587 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Workbook Error: Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory. -- Execution Time 0:00:00 Library/Tst2.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-12 22:10:49.066 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 22:10:48.415 +0530"
+}

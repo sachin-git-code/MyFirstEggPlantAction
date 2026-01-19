@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Library/Tst1_script" package="Demo Test Suite.suite" timestamp="2026-01-12 21:30:35.950 +0530"
+ tests="1"  failures="1" errors="0" time="0.192000">
+  <properties>
+   <property name="RunDate" value="2026-01-12 21:30:35.950 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Library/Tst1.script" assertions="1" status="failure"  time="0.188">
+    <failure type="FAILURE" message="BadValue: Bad value for Object expression.  Looking for an object or script identifier, got &apos;Common&apos;. -- Execution Time 0:00:00 Library/Tst1.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

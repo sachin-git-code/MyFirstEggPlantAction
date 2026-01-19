@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/Tst1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-13 11:32:44.520 +0530"
+			},
+		{
+				"message": "(Duration:\"0.004\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-13 11:32:44 +0530\", Successes:\"0\", TestCase:\"Library/Tst1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-13 11:32:44.549 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in tst1:\\nSyntax Error at line 17: can't understand \"into\" at character 54 -- Execution Time 0:00:00 Library/Tst1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-13 11:32:44.964 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-13 11:32:44.530 +0530"
+}

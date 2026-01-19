@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="New/DateTTime_script" package="Demo Test Suite.suite" timestamp="2026-01-10 12:15:40.809 +0530"
+ tests="1"  failures="1" errors="0" time="0.108000">
+  <properties>
+   <property name="RunDate" value="2026-01-10 12:15:40.809 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="New/DateTTime.script" assertions="1" status="failure"  time="0.1">
+    <failure type="FAILURE" message="STInvalidNumber: Value is not a number: &apos;as&apos; -- Execution Time 0:00:00 New/DateTTime.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

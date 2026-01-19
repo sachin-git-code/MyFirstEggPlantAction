@@ -1,0 +1,4 @@
+﻿2026-01-13 15:37:57.920 +0530	START		Running Library/Open SAP.script
+2026-01-13 15:38:10.044 +0530	doubleclick	SAPLogonIcon	at (788, 146)	1	on_open_sap	Library/Open SAP.script
+2026-01-13 15:38:10.098 +0530	EndTestCase		(Duration:"12.168", Errors:"0", Exceptions:"0", StartTime:"2026-01-13 15:37:57 +0530", Successes:"1", TestCase:"Library/Open SAP.script", Warnings:"0")
+2026-01-13 15:38:10.380 +0530	SUCCESS		Execution Time 0:00:12 Library/Open SAP.script

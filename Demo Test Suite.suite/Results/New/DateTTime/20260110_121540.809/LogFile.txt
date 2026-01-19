@@ -1,0 +1,3 @@
+﻿2026-01-10 12:15:40.815 +0530	START		Running New/DateTTime.script
+2026-01-10 12:15:40.919 +0530	EndTestCase		(Duration:"0.1", Errors:"1", Exceptions:"0", StartTime:"2026-01-10 12:15:40 +0530", Successes:"0", TestCase:"New/DateTTime.script", Warnings:"0")
+2026-01-10 12:15:41.315 +0530	FAILURE	Screen_Error.png	STInvalidNumber: Value is not a number: 'as' -- Execution Time 0:00:00 New/DateTTime.script

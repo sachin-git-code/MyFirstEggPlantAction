@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running New/Param.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 19:14:14.218 +0530"
+			},
+		{
+				"message": "(Duration:\"3.377\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 19:14:14 +0530\", Successes:\"1\", TestCase:\"New/Param.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 19:14:17.604 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:03 New/Param.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 19:14:17.688 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 19:14:14.222 +0530"
+}

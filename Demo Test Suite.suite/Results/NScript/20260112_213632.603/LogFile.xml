@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="NScript_script" package="Demo Test Suite.suite" timestamp="2026-01-12 21:36:32.603 +0530"
+ tests="1"  failures="0" errors="0" time="12.768000">
+  <properties>
+   <property name="RunDate" value="2026-01-12 21:36:32.603 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="NScript.script" assertions="1" status="success"  time="12.757">
+  </testcase>
+ </testsuite>
+</testsuites>

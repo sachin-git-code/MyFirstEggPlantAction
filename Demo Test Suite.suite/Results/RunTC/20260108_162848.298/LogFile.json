@@ -1,0 +1,99 @@
+{
+	"entries": [
+		{
+				"message": "Running RunTC.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 16:28:48.308 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:48.523 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "TC1.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:49.265 +0530",
+				"message": "[returnKey]",
+				"scriptName": "TC1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:49.269 +0530",
+				"message": "Assertion Succeeded:  (assertion: 3+3 < 10; true: 6 IS less than 10)",
+				"scriptName": "TC1.script",
+				"handlerLine": 8,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:49.272 +0530",
+				"message": "abc",
+				"scriptName": "TC1.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:49.276 +0530",
+				"message": "Assertion Warning:  (assertion: qut contains \"rich\"; actually: become poor by giving DOES NOT contain rich)",
+				"scriptName": "TC1.script",
+				"handlerLine": 14,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:54.165 +0530",
+				"message": "abc",
+				"scriptName": "TC1.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:54.233 +0530",
+				"message": "Button:3",
+				"scriptName": "TC1.script",
+				"handlerLine": 25,
+				"identifier": "mousebuttondown"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:56.066 +0530",
+				"message": "at (50, 50)",
+				"scriptName": "TC1.script",
+				"handlerLine": 27,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:28:56.075 +0530",
+				"scriptName": "TC1.script",
+				"identifier": "Log",
+				"handlerLine": 29
+			},
+		{
+				"handlerName": "on_runtc",
+				"timestamp": "2026-01-08 16:28:56.089 +0530",
+				"message": "--------------",
+				"scriptName": "RunTC.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"7.835\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 16:28:48 +0530\", Successes:\"1\", TestCase:\"RunTC.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 16:28:56.153 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 RunTC.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 16:28:56.225 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 16:28:48.317 +0530"
+}

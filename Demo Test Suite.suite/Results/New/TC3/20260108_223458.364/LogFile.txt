@@ -1,0 +1,3 @@
+﻿2026-01-08 22:34:58.370 +0530	START		Running New/TC3.script
+2026-01-08 22:34:58.447 +0530	EndTestCase		(Duration:"0.072", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 22:34:58 +0530", Successes:"1", TestCase:"New/TC3.script", Warnings:"0")
+2026-01-08 22:34:58.495 +0530	SUCCESS		Execution Time 0:00:00 New/TC3.script

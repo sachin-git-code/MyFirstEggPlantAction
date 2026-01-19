@@ -1,0 +1,4 @@
+﻿2026-01-12 21:37:29.021 +0530	START		Running NScript.script
+2026-01-12 21:37:35.666 +0530	Exception	Chrome	No Image Found On Screen: "Chrome"	2	on_opensite	Common.script
+2026-01-12 21:37:35.737 +0530	EndTestCase		(Duration:"6.712", Errors:"1", Exceptions:"1", StartTime:"2026-01-12 21:37:29 +0530", Successes:"0", TestCase:"NScript.script", Warnings:"0")
+2026-01-12 21:37:35.744 +0530	ABORTED		Execution Time 0:00:06 NScript.script

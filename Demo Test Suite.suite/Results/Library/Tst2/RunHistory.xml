@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Library/Tst2">
+ <run>
+  <RunDate>2026-01-12 22:10:29.364 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221029.364/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in tst2:
+Syntax Error at line 1: can&#x27;t understand [end of line] at character 88</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:10:48.400 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.185000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221048.400/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:10:58.258 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.123000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221058.258/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:11:33.864 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.223000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221133.864/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:11:45.419 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.207000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221145.419/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:12:05.176 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.161000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221205.176/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:12:31.788 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.169000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221231.788/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:12:46.386 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.200000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_221246.386/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:13:51.727 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.182000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260112_221351.727/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:15:09.985 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.219000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260112_221509.985/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:15:42.114 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.188000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260112_221542.114/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:16:41.169 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.175000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260112_221641.169/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:19:42.365 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.186000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260112_221942.365/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 22:41:26.730 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.016000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_224126.730/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in tst2:
+Syntax Error at line 30: can&#x27;t understand &quot;into&quot; at character 7</ErrorMessage>
+ </run>
+</runHistory>

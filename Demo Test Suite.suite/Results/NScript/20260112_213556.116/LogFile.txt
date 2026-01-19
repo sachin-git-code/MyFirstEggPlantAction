@@ -1,0 +1,5 @@
+﻿2026-01-12 21:35:56.125 +0530	START		Running NScript.script
+2026-01-12 21:35:56.650 +0530	doubleclick	Chrome	at (42, 642)	2	on_opensite	Common.script
+2026-01-12 21:36:24.680 +0530	Exception	Refresh	Unable To Find Any Image On Screen "Refresh" within 20.00 seconds	3	on_opensite	Common.script
+2026-01-12 21:36:24.765 +0530	EndTestCase		(Duration:"28.636", Errors:"1", Exceptions:"1", StartTime:"2026-01-12 21:35:56 +0530", Successes:"0", TestCase:"NScript.script", Warnings:"0")
+2026-01-12 21:36:24.775 +0530	ABORTED		Execution Time 0:00:28 NScript.script

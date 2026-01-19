@@ -1,0 +1,50 @@
+{
+	"originalcapturelocation": [
+		750,
+		7,
+		75,
+		83
+	],
+	"lastmodifieddate": 1767869862.846,
+	"createddate": 1767869242.4000001,
+	"name": "Holidaycalendar",
+	"lastfounddate": 1767869835.7639999,
+	"ocrcapturestring": "PDF",
+	"lastfoundlocation": [
+		761,
+		18,
+		53,
+		61
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 49765,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,41]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "Holidaycalendar.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					750,
+					7,
+					75,
+					83
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "PDF"
+			}
+	]
+}

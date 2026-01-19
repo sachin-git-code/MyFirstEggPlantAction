@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/Open SAP.script",
+				"identifier": "START",
+				"timestamp": "2026-01-13 15:36:49.749 +0530"
+			},
+		{
+				"handlerName": "on_open_sap",
+				"timestamp": "2026-01-13 15:37:56.458 +0530",
+				"scriptName": "Library/Open SAP.script",
+				"message": "No Image Found On Screen: \"SAPLogonIcon\"",
+				"image": "SAPLogonIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"66.913\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-01-13 15:36:49 +0530\", Successes:\"0\", TestCase:\"Library/Open SAP.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-13 15:37:56.678 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:06 Library/Open SAP.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-13 15:37:56.701 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-13 15:36:49.760 +0530"
+}

@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running New/DateTTime.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 12:53:26.300 +0530"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-12 12:53:26.613 +0530",
+				"message": "xyz",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 42,
+				"identifier": "setvaultvalue"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-12 12:53:26.641 +0530",
+				"message": "abc",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 43,
+				"identifier": "setvaultvalue"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-12 12:53:26.668 +0530",
+				"message": "Password is password1",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 47,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-12 12:53:26.686 +0530",
+				"message": "passw",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 50,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-12 12:53:27.010 +0530",
+				"message": "********",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 51,
+				"identifier": "typehiddentext"
+			},
+		{
+				"message": "(Duration:\"5.697\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-12 12:53:26 +0530\", Successes:\"1\", TestCase:\"New/DateTTime.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 12:53:32.016 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:05 New/DateTTime.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-12 12:53:32.031 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 12:53:26.316 +0530"
+}

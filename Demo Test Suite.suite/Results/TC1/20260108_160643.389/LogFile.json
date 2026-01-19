@@ -1,0 +1,84 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 16:06:43.397 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:43.536 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "TC1.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:44.274 +0530",
+				"message": "[returnKey]",
+				"scriptName": "TC1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:44.290 +0530",
+				"message": "Assertion Succeeded:  (assertion: 3+3 < 10; true: 6 IS less than 10)",
+				"scriptName": "TC1.script",
+				"handlerLine": 8,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:44.300 +0530",
+				"message": "abc",
+				"scriptName": "TC1.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:44.306 +0530",
+				"message": "Assertion Warning:  (assertion: qut contains \"rich\"; actually: become poor by giving DOES NOT contain rich)",
+				"scriptName": "TC1.script",
+				"handlerLine": 14,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:53.029 +0530",
+				"message": "abc",
+				"scriptName": "TC1.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:53.089 +0530",
+				"message": "Button:3",
+				"scriptName": "TC1.script",
+				"handlerLine": 24,
+				"identifier": "mousebuttondown"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 16:06:55.130 +0530",
+				"message": "at (50, 50)",
+				"scriptName": "TC1.script",
+				"handlerLine": 26,
+				"identifier": "moveto"
+			},
+		{
+				"message": "(Duration:\"13.072\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 16:06:43 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 16:06:56.475 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:13 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 16:06:56.551 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 16:06:43.402 +0530"
+}

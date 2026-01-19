@@ -1,0 +1,15 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-12 22:10:29.364 +0530,"Failure",0:00:00,1,0,0,"20260112_221029.364/LogFile.txt","","SenseTalk Compiler Exception -- in tst2:\nSyntax Error at line 1: can't understand [end of line] at character 88",0
+2026-01-12 22:10:48.400 +0530,"Failure",0:00:00,1,0,0,"20260112_221048.400/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:10:58.258 +0530,"Failure",0:00:00,1,0,0,"20260112_221058.258/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:11:33.864 +0530,"Failure",0:00:00,1,0,0,"20260112_221133.864/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:11:45.419 +0530,"Failure",0:00:00,1,0,0,"20260112_221145.419/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:12:05.176 +0530,"Failure",0:00:00,1,0,0,"20260112_221205.176/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:12:31.788 +0530,"Failure",0:00:00,1,0,0,"20260112_221231.788/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:12:46.386 +0530,"Failure",0:00:00,1,0,0,"20260112_221246.386/LogFile.txt","","Workbook Error -- Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory.",0
+2026-01-12 22:13:51.727 +0530,"Success",0:00:00,0,0,0,"20260112_221351.727/LogFile.txt","","",1
+2026-01-12 22:15:09.985 +0530,"Success",0:00:00,0,0,0,"20260112_221509.985/LogFile.txt","","",1
+2026-01-12 22:15:42.114 +0530,"Success",0:00:00,0,0,0,"20260112_221542.114/LogFile.txt","","",1
+2026-01-12 22:16:41.169 +0530,"Success",0:00:00,0,0,0,"20260112_221641.169/LogFile.txt","","",1
+2026-01-12 22:19:42.365 +0530,"Success",0:00:00,0,0,0,"20260112_221942.365/LogFile.txt","","",1
+2026-01-12 22:41:26.730 +0530,"Failure",0:00:00,1,0,0,"20260112_224126.730/LogFile.txt","","SenseTalk Compiler Exception -- in tst2:\nSyntax Error at line 30: can't understand ""into"" at character 7",0

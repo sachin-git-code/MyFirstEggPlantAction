@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running New/DateTTime.script",
+				"identifier": "START",
+				"timestamp": "2026-01-10 12:15:28.455 +0530"
+			},
+		{
+				"message": "(Duration:\"0.097\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-10 12:15:28 +0530\", Successes:\"1\", TestCase:\"New/DateTTime.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-10 12:15:28.555 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 New/DateTTime.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-10 12:15:28.619 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-10 12:15:28.457 +0530"
+}

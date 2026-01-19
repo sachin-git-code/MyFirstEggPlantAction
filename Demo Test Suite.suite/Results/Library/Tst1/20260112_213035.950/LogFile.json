@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/Tst1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 21:30:35.956 +0530"
+			},
+		{
+				"message": "(Duration:\"0.188\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-12 21:30:35 +0530\", Successes:\"0\", TestCase:\"Library/Tst1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 21:30:36.148 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'Common'. -- Execution Time 0:00:00 Library/Tst1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-12 21:30:36.561 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 21:30:35.958 +0530"
+}

@@ -1,0 +1,6 @@
+﻿2026-01-06 11:20:46.400 +0530	START		Running TC1.script
+2026-01-06 11:20:46.755 +0530	typetext		[windowsKey]r	1	on_tc1	TC1.script
+2026-01-06 11:20:48.917 +0530	typetext		chrome.exe https://www.wikipedia.com	3	on_tc1	TC1.script
+2026-01-06 11:20:49.966 +0530	typetext		[return]	5	on_tc1	TC1.script
+2026-01-06 11:20:50.026 +0530	EndTestCase		(Duration:"3.604", Errors:"0", Exceptions:"0", StartTime:"2026-01-06 11:20:46 +0530", Successes:"1", TestCase:"TC1.script", Warnings:"0")
+2026-01-06 11:20:50.267 +0530	SUCCESS		Execution Time 0:00:03 TC1.script

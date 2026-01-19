@@ -1,0 +1,19 @@
+﻿try 
+	delete file "C:\Library1"
+	
+catch myerror
+	put myerror
+	put myerror.location
+	put myerror.name
+	put myerror.reason
+	put archive of myerror
+End try
+
+if the exception is not empty then
+	Put "FIX IT"
+	put the exception
+end if
+
+if the exception.name is "STFileSystemException" then
+	put "File doesn't exists"
+end if

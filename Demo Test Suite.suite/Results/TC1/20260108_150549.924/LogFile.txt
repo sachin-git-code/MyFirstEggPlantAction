@@ -1,0 +1,4 @@
+﻿2026-01-08 15:05:49.943 +0530	START		Running TC1.script
+2026-01-08 15:06:16.431 +0530	Exception	SAPLogonIcon	No Image Found On Screen: "SAPLogonIcon"	1	on_tc1	TC1.script
+2026-01-08 15:06:16.662 +0530	EndTestCase		(Duration:"26.702", Errors:"1", Exceptions:"1", StartTime:"2026-01-08 15:05:49 +0530", Successes:"0", TestCase:"TC1.script", Warnings:"0")
+2026-01-08 15:06:16.670 +0530	ABORTED		Execution Time 0:00:26 TC1.script

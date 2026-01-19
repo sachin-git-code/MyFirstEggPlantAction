@@ -1,0 +1,3 @@
+﻿2026-01-08 19:12:30.108 +0530	START		Running New/Param.script
+2026-01-08 19:12:34.443 +0530	EndTestCase		(Duration:"4.328", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 19:12:30 +0530", Successes:"1", TestCase:"New/Param.script", Warnings:"0")
+2026-01-08 19:12:34.526 +0530	SUCCESS		Execution Time 0:00:04 New/Param.script

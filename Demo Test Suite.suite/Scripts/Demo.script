@@ -1,0 +1,4 @@
+﻿Put "Hello" into global greeting
+
+log global greeting
+

@@ -1,0 +1,5 @@
+﻿2026-01-12 12:59:38.174 +0530	START		Running New/TC3.script
+2026-01-12 12:59:38.549 +0530	Log		Beginning SUT initialization	35	on_tc3	New/TC3.script
+2026-01-12 12:59:51.715 +0530	Exception	ChromeIcon	No Image Found On Screen: "ChromeIcon"	37	on_tc3	New/TC3.script
+2026-01-12 12:59:51.803 +0530	EndTestCase		(Duration:"13.62", Errors:"1", Exceptions:"1", StartTime:"2026-01-12 12:59:38 +0530", Successes:"0", TestCase:"New/TC3.script", Warnings:"0")
+2026-01-12 12:59:51.822 +0530	ABORTED		Execution Time 0:00:13 New/TC3.script

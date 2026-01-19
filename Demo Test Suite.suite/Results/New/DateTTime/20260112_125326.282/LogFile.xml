@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="New/DateTTime_script" package="Demo Test Suite.suite" timestamp="2026-01-12 12:53:26.282 +0530"
+ tests="1"  failures="0" errors="0" time="5.732000">
+  <properties>
+   <property name="RunDate" value="2026-01-12 12:53:26.282 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="New/DateTTime.script" assertions="1" status="success"  time="5.697">
+  </testcase>
+ </testsuite>
+</testsuites>

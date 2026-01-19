@@ -1,0 +1,7 @@
+﻿2026-01-12 21:24:06.885 +0530	START		Running Library/Common.script
+2026-01-12 21:24:07.232 +0530	doubleclick	Chrome	at (42, 643)	1	on_common	Library/Common.script
+2026-01-12 21:24:09.194 +0530	waitfor	Refresh	found at (94, 60)	2	on_common	Library/Common.script
+2026-01-12 21:24:10.084 +0530	typetext		https://demo.nopcommerce.com[returnKey]	3	on_common	Library/Common.script
+2026-01-12 21:24:10.149 +0530	Exception	nopCommerce	Could Not Open Image: nopCommerce	4	on_common	Library/Common.script
+2026-01-12 21:24:10.400 +0530	EndTestCase		(Duration:"3.507", Errors:"1", Exceptions:"1", StartTime:"2026-01-12 21:24:06 +0530", Successes:"0", TestCase:"Library/Common.script", Warnings:"0")
+2026-01-12 21:24:10.764 +0530	FAILURE	Screen_Error.png	File Not Found: WaitFor Error - Could Not Open Image: nopCommerce -- Execution Time 0:00:03 Library/Common.script

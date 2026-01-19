@@ -1,0 +1,3 @@
+﻿2026-01-08 18:58:41.988 +0530	START		Running New/Local.script
+2026-01-08 18:58:42.227 +0530	EndTestCase		(Duration:"0.231", Errors:"1", Exceptions:"0", StartTime:"2026-01-08 18:58:41 +0530", Successes:"0", TestCase:"New/Local.script", Warnings:"0")
+2026-01-08 18:58:42.636 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Function: 'generategreet' -- Execution Time 0:00:00 New/Local.script

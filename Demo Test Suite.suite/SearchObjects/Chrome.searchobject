@@ -1,0 +1,77 @@
+{
+	"originalcapturelocation": [
+		0,
+		596,
+		84,
+		94
+	],
+	"lastmodifieddate": 1768233159.9879999,
+	"createddate": 1768232822.1599998,
+	"name": "Chrome",
+	"lastfounddate": 1768299242.74,
+	"ocrcapturestring": "c WilMilQ",
+	"lastfoundlocation": [
+		0,
+		596,
+		84,
+		94
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 52516,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[42,47]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "Chrome.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					0,
+					596,
+					84,
+					94
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "c WilMilQ"
+			},
+		{
+				"connectionportnum": 52516,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[42,47]",
+					"Tolerance": 88,
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "Chrome.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					0,
+					596,
+					84,
+					94
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "c WilMilQ"
+			}
+	]
+}

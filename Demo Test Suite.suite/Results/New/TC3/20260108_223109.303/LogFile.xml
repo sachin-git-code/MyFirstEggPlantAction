@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="New/TC3_script" package="Demo Test Suite.suite" timestamp="2026-01-08 22:31:09.303 +0530"
+ tests="1"  failures="1" errors="0" time="0.065000">
+  <properties>
+   <property name="RunDate" value="2026-01-08 22:31:09.303 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="New/TC3.script" assertions="1" status="failure"  time="0.058">
+    <failure type="FAILURE" message="InvalidCommandOrRange: Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got &quot;123&quot; TO &quot;greet&quot;) -- Execution Time 0:00:00 New/TC3.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

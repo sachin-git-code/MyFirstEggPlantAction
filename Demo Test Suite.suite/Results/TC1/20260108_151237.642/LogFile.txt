@@ -1,0 +1,5 @@
+﻿2026-01-08 15:12:37.647 +0530	START		Running TC1.script
+2026-01-08 15:12:37.771 +0530	typetext		[windowsKey]r	1	on_tc1	TC1.script
+2026-01-08 15:12:37.782 +0530	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	2	on_tc1	TC1.script
+2026-01-08 15:12:37.816 +0530	EndTestCase		(Duration:"0.165", Errors:"1", Exceptions:"1", StartTime:"2026-01-08 15:12:37 +0530", Successes:"0", TestCase:"TC1.script", Warnings:"0")
+2026-01-08 15:12:38.229 +0530	FAILURE	Screen_Error.png	Error Running Script Command: WaitFor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:00 TC1.script

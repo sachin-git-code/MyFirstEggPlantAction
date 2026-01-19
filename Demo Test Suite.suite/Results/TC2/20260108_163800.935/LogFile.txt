@@ -1,0 +1,6 @@
+﻿2026-01-08 16:38:00.946 +0530	START		Running TC2.script
+2026-01-08 16:38:01.097 +0530	Log		{age:"10", gender:"male", name:"sachin"}	3	on_tc2	TC2.script
+2026-01-08 16:38:01.102 +0530	Log		{age:"10", name:"sachin"}	7	on_tc2	TC2.script
+2026-01-08 16:38:01.111 +0530	Log		{abc:123, age:"10", name:"sachin"}	11	on_tc2	TC2.script
+2026-01-08 16:38:01.204 +0530	EndTestCase		(Duration:"0.251", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 16:38:00 +0530", Successes:"1", TestCase:"TC2.script", Warnings:"0")
+2026-01-08 16:38:01.300 +0530	SUCCESS		Execution Time 0:00:00 TC2.script

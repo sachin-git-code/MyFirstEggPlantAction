@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		63,
+		31,
+		62,
+		59
+	],
+	"lastmodifieddate": 1768233208.204,
+	"createddate": 1768233208.204,
+	"name": "Refresh",
+	"lastfounddate": 1768299250.6030002,
+	"ocrcapturestring": "G (",
+	"lastfoundlocation": [
+		63,
+		31,
+		62,
+		59
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 52516,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[31,29]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "Refresh.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					63,
+					31,
+					62,
+					59
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "G ("
+			}
+	]
+}

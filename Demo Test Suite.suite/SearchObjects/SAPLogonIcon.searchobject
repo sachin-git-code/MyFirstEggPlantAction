@@ -1,0 +1,48 @@
+{
+	"lastmodifieddate": 1767865064.8940001,
+	"lastfoundlocation": [
+		74,
+		201,
+		73,
+		79
+	],
+	"originalcapturelocation": [
+		74,
+		201,
+		73,
+		79
+	],
+	"createddate": 1767864931.5009999,
+	"lastfounddate": 1767865015.6329999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 49765,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[36,39]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "SAPLogonIcon.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"capturerect": [
+					74,
+					201,
+					73,
+					79
+				],
+				"connectiontype": "Single System",
+				"connectionserverid": "127.0.0.1"
+			}
+	],
+	"name": "SAPLogonIcon"
+}

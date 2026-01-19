@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		9,
+		597,
+		61,
+		80
+	],
+	"lastmodifieddate": 1767979786.5369999,
+	"createddate": 1767979786.5369999,
+	"name": "ChromeIcon",
+	"lastfounddate": 1768232810.7130001,
+	"ocrcapturestring": "c",
+	"lastfoundlocation": [
+		9,
+		597,
+		61,
+		80
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 56813,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[30,40]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "ChromeIcon.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					9,
+					597,
+					61,
+					80
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "c"
+			}
+	]
+}

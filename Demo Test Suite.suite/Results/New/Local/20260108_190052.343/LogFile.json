@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running New/Local.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 19:00:52.346 +0530"
+			},
+		{
+				"message": "(Duration:\"0.206\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 19:00:52 +0530\", Successes:\"1\", TestCase:\"New/Local.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 19:00:52.555 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 New/Local.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 19:00:52.642 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 19:00:52.349 +0530"
+}

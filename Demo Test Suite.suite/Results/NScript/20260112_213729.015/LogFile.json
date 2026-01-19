@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running NScript.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 21:37:29.021 +0530"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:37:35.666 +0530",
+				"scriptName": "Common.script",
+				"message": "No Image Found On Screen: \"Chrome\"",
+				"image": "Chrome",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"6.712\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-01-12 21:37:29 +0530\", Successes:\"0\", TestCase:\"NScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 21:37:35.737 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:06 NScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-12 21:37:35.744 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 21:37:29.024 +0530"
+}

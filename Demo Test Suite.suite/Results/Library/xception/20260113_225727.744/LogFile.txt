@@ -1,0 +1,3 @@
+﻿2026-01-13 22:57:27.748 +0530	START		Running Library/xception.script
+2026-01-13 22:57:27.948 +0530	EndTestCase		(Duration:"0.195", Errors:"0", Exceptions:"0", StartTime:"2026-01-13 22:57:27 +0530", Successes:"1", TestCase:"Library/xception.script", Warnings:"0")
+2026-01-13 22:57:28.018 +0530	SUCCESS		Execution Time 0:00:00 Library/xception.script

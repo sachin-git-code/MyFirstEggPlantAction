@@ -1,0 +1,8 @@
+﻿2026-01-12 12:53:26.300 +0530	START		Running New/DateTTime.script
+2026-01-12 12:53:26.613 +0530	setvaultvalue		xyz	42	on_datettime	New/DateTTime.script
+2026-01-12 12:53:26.641 +0530	setvaultvalue		abc	43	on_datettime	New/DateTTime.script
+2026-01-12 12:53:26.668 +0530	Log		Password is password1	47	on_datettime	New/DateTTime.script
+2026-01-12 12:53:26.686 +0530	Log		passw	50	on_datettime	New/DateTTime.script
+2026-01-12 12:53:27.010 +0530	typehiddentext		********	51	on_datettime	New/DateTTime.script
+2026-01-12 12:53:32.016 +0530	EndTestCase		(Duration:"5.697", Errors:"0", Exceptions:"0", StartTime:"2026-01-12 12:53:26 +0530", Successes:"1", TestCase:"New/DateTTime.script", Warnings:"0")
+2026-01-12 12:53:32.031 +0530	ABORTED		Execution Time 0:00:05 New/DateTTime.script

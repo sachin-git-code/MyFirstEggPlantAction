@@ -1,0 +1,56 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/Common.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 21:24:06.885 +0530"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:24:07.232 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "at (42, 643)",
+				"image": "Chrome",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:24:09.194 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "found at (94, 60)",
+				"image": "Refresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:24:10.084 +0530",
+				"message": "https://demo.nopcommerce.com[returnKey]",
+				"scriptName": "Library/Common.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2026-01-12 21:24:10.149 +0530",
+				"scriptName": "Library/Common.script",
+				"message": "Could Not Open Image: nopCommerce",
+				"image": "nopCommerce",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"3.507\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-01-12 21:24:06 +0530\", Successes:\"0\", TestCase:\"Library/Common.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 21:24:10.400 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: WaitFor Error - Could Not Open Image: nopCommerce -- Execution Time 0:00:03 Library/Common.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-12 21:24:10.764 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 21:24:06.891 +0530"
+}

@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running New/DateTTime.script",
+				"identifier": "START",
+				"timestamp": "2026-01-10 20:05:59.408 +0530"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-10 20:05:59.517 +0530",
+				"message": "xyz",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 38,
+				"identifier": "setvaultvalue"
+			},
+		{
+				"handlerName": "on_datettime",
+				"timestamp": "2026-01-10 20:05:59.693 +0530",
+				"message": "********",
+				"scriptName": "New/DateTTime.script",
+				"handlerLine": 46,
+				"identifier": "typehiddentext"
+			},
+		{
+				"message": "(Duration:\"5.166\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-10 20:05:59 +0530\", Successes:\"1\", TestCase:\"New/DateTTime.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-10 20:06:04.580 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:05 New/DateTTime.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-10 20:06:04.590 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-10 20:05:59.413 +0530"
+}

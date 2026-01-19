@@ -1,0 +1,4 @@
+﻿2026-01-08 16:34:19.439 +0530	START		Running TC2.script
+2026-01-08 16:34:19.497 +0530	Log		{age:"10", gender:"male", name:"sachin"}	3	on_tc2	TC2.script
+2026-01-08 16:34:19.619 +0530	EndTestCase		(Duration:"0.174", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 16:34:19 +0530", Successes:"1", TestCase:"TC2.script", Warnings:"0")
+2026-01-08 16:34:19.705 +0530	SUCCESS		Execution Time 0:00:00 TC2.script

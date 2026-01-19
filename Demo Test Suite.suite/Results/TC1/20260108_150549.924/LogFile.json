@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 15:05:49.943 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:06:16.431 +0530",
+				"scriptName": "TC1.script",
+				"message": "No Image Found On Screen: \"SAPLogonIcon\"",
+				"image": "SAPLogonIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"26.702\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-01-08 15:05:49 +0530\", Successes:\"0\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 15:06:16.662 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:26 TC1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-08 15:06:16.670 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 15:05:49.958 +0530"
+}

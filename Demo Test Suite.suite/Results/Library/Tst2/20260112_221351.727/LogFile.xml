@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Library/Tst2_script" package="Demo Test Suite.suite" timestamp="2026-01-12 22:13:51.727 +0530"
+ tests="1"  failures="0" errors="0" time="0.182000">
+  <properties>
+   <property name="RunDate" value="2026-01-12 22:13:51.727 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Library/Tst2.script" assertions="1" status="success"  time="0.168">
+  </testcase>
+ </testsuite>
+</testsuites>

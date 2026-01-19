@@ -1,0 +1,79 @@
+{
+	"originalcapturelocation": [
+		528,
+		128,
+		430,
+		506
+	],
+	"lastmodifieddate": 1767869868.658,
+	"createddate": 1767868360.7740002,
+	"name": "NameQsAfricaPRDP9BBWProduction",
+	"lastfounddate": 1767868361.0369999,
+	"ocrcapturestring": "Name Qs, Africa: PRD - P9B - BW Production ® Africa: PRD - P9E - ERP Production E&AFRICA: QAS - A9E - ERP Preproduction E&Africa: QAS - S9B - BW Quality Assurance Africa: QAS - S9E - ERP Quality Assurance Americas: DEV Americas: DEV Americas: DEV Americas: PRD ® Americas: PRD DCB - BW Development DJB - BW STAR Development DJE - ERP STAR Development P2A - APO Production P2E - ERP Production System... * P2E ^AMERICAS: PRD - PBU - BI Americas Linde Template Pro... Americas: PRD - PCB - BW Production ® AMERICAS: PRD - PCU - CRM Americas Linde Template P... Bl AMERICAS: PRD - PEU - ERP Americas Linde Template P... Americas: PRD - PJE - ERP STAR Production Americas: QAS - M2E - ERP Preproduction AMERICAS: QAS - RBU - BI Americas Linde Template Pr... AMERICAS: QAS - RCU - CRM Americas Linde Template ... ^AMERICAS: QAS - REU - ERP Americas Linde Template P... Americas: QAS - S2A - APO Quality Assurance Americas: QAS - S2E - ERP Quality Assurance Americas: QAS - SCB - BW Quality Assurance Americas: QAS - SJB - BW STAR Quality Assurance Americas: QAS - SJE - ERP STAR Quality Assurance Americas: TST - AFE - ERP - P2E copy ElftAPAC: PRD - PBA - BI APAC Linde Template Production < ► < ►",
+	"lastfoundlocation": [
+		528,
+		128,
+		430,
+		506
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 49765,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[215,253]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "NameQsAfricaPRDP9BBWProduction.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					528,
+					128,
+					430,
+					506
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Name Qs, Africa: PRD - P9B - BW Production ® Africa: PRD - P9E - ERP Production E&AFRICA: QAS - A9E - ERP Preproduction E&Africa: QAS - S9B - BW Quality Assurance Africa: QAS - S9E - ERP Quality Assurance Americas: DEV Americas: DEV Americas: DEV Americas: PRD ® Americas: PRD DCB - BW Development DJB - BW STAR Development DJE - ERP STAR Development P2A - APO Production P2E - ERP Production System... * P2E ^AMERICAS: PRD - PBU - BI Americas Linde Template Pro... Americas: PRD - PCB - BW Production ® AMERICAS: PRD - PCU - CRM Americas Linde Template P... Bl AMERICAS: PRD - PEU - ERP Americas Linde Template P... Americas: PRD - PJE - ERP STAR Production Americas: QAS - M2E - ERP Preproduction AMERICAS: QAS - RBU - BI Americas Linde Template Pr... AMERICAS: QAS - RCU - CRM Americas Linde Template ... ^AMERICAS: QAS - REU - ERP Americas Linde Template P... Americas: QAS - S2A - APO Quality Assurance Americas: QAS - S2E - ERP Quality Assurance Americas: QAS - SCB - BW Quality Assurance Americas: QAS - SJB - BW STAR Quality Assurance Americas: QAS - SJE - ERP STAR Quality Assurance Americas: TST - AFE - ERP - P2E copy ElftAPAC: PRD - PBA - BI APAC Linde Template Production < ► < ►"
+			},
+		{
+				"connectionportnum": 49765,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[215,253]",
+					"Tolerance": "_30",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "NameQsAfricaPRDP9BBWProduction.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					528,
+					128,
+					430,
+					506
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Name Qs, Africa: PRD - P9B - BW Production ® Africa: PRD - P9E - ERP Production E&AFRICA: QAS - A9E - ERP Preproduction E&Africa: QAS - S9B - BW Quality Assurance Africa: QAS - S9E - ERP Quality Assurance Americas: DEV Americas: DEV Americas: DEV Americas: PRD ® Americas: PRD DCB - BW Development DJB - BW STAR Development DJE - ERP STAR Development P2A - APO Production P2E - ERP Production System... * P2E ^AMERICAS: PRD - PBU - BI Americas Linde Template Pro... Americas: PRD - PCB - BW Production ® AMERICAS: PRD - PCU - CRM Americas Linde Template P... Bl AMERICAS: PRD - PEU - ERP Americas Linde Template P... Americas: PRD - PJE - ERP STAR Production Americas: QAS - M2E - ERP Preproduction AMERICAS: QAS - RBU - BI Americas Linde Template Pr... AMERICAS: QAS - RCU - CRM Americas Linde Template ... ^AMERICAS: QAS - REU - ERP Americas Linde Template P... Americas: QAS - S2A - APO Quality Assurance Americas: QAS - S2E - ERP Quality Assurance Americas: QAS - SCB - BW Quality Assurance Americas: QAS - SJB - BW STAR Quality Assurance Americas: QAS - SJE - ERP STAR Quality Assurance Americas: TST - AFE - ERP - P2E copy ElftAPAC: PRD - PBA - BI APAC Linde Template Production < ► < ►"
+			}
+	]
+}

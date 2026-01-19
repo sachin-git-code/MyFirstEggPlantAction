@@ -1,0 +1,6 @@
+﻿2026-01-08 16:29:39.402 +0530	START		Running RunTC.script
+2026-01-08 16:29:39.672 +0530	Log		Hello	28	on_tc1	TC1.script
+2026-01-08 16:29:39.687 +0530	Log		--------------	3	on_runtc	RunTC.script
+2026-01-08 16:29:39.712 +0530	Log		Hello	1	on_tc2	TC2.script
+2026-01-08 16:29:39.783 +0530	EndTestCase		(Duration:"0.363", Errors:"0", Exceptions:"0", StartTime:"2026-01-08 16:29:39 +0530", Successes:"1", TestCase:"RunTC.script", Warnings:"0")
+2026-01-08 16:29:39.852 +0530	SUCCESS		Execution Time 0:00:00 RunTC.script

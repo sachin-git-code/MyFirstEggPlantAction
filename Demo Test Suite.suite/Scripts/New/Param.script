@@ -1,0 +1,16 @@
+﻿put "thunder" into global user
+
+Ask "what is the name"
+
+put it into global user
+
+put generategreet()
+
+put "welcome " & global user
+
+to generategreet
+	put "hey" && user into greet
+	return greet & "!!"
+end generategreet
+
+

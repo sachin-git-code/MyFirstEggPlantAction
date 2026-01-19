@@ -1,0 +1,30 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-08 22:26:27.638 +0530,"Failure",0:00:00,1,0,0,"20260108_222627.638/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2026-01-08 22:27:00.330 +0530,"Failure",0:00:00,1,0,0,"20260108_222700.330/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2026-01-08 22:27:24.436 +0530,"Failure",0:00:00,1,0,0,"20260108_222724.436/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2026-01-08 22:28:32.588 +0530,"Failure",0:00:00,1,0,0,"20260108_222832.588/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2026-01-08 22:29:12.970 +0530,"Failure",0:00:00,1,0,0,"20260108_222912.970/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2026-01-08 22:29:34.287 +0530,"Failure",0:00:00,1,0,0,"20260108_222934.287/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""hi"" TO ""greeting"")",0
+2026-01-08 22:30:05.514 +0530,"Failure",0:00:00,1,0,0,"20260108_223005.514/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""hi"" TO ""greeting"")",0
+2026-01-08 22:30:18.059 +0530,"Failure",0:00:00,1,0,0,"20260108_223018.059/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""helllo"" TO ""greeting"")",0
+2026-01-08 22:30:42.589 +0530,"Failure",0:00:00,1,0,0,"20260108_223042.589/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""helllo"" TO ""greet"")",0
+2026-01-08 22:31:01.599 +0530,"Failure",0:00:00,1,0,0,"20260108_223101.599/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""123"" TO ""greet"")",0
+2026-01-08 22:31:09.303 +0530,"Failure",0:00:00,1,0,0,"20260108_223109.303/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""123"" TO ""greet"")",0
+2026-01-08 22:31:56.720 +0530,"Failure",0:00:00,1,0,0,"20260108_223156.720/LogFile.txt","","STInvalidNumber -- Value is not a number: '1 to 999'",0
+2026-01-08 22:32:11.498 +0530,"Success",0:00:00,0,0,0,"20260108_223211.498/LogFile.txt","","",1
+2026-01-08 22:32:25.515 +0530,"Success",0:00:00,0,0,0,"20260108_223225.515/LogFile.txt","","",1
+2026-01-08 22:32:42.247 +0530,"Success",0:00:00,0,0,0,"20260108_223242.247/LogFile.txt","","",1
+2026-01-08 22:33:39.956 +0530,"Success",0:00:00,0,0,0,"20260108_223339.956/LogFile.txt","","",1
+2026-01-08 22:34:20.446 +0530,"Success",0:00:00,0,0,0,"20260108_223420.446/LogFile.txt","","",1
+2026-01-08 22:34:51.471 +0530,"Failure",0:00:00,1,0,0,"20260108_223451.471/LogFile.txt","","STInvalidNumber -- Value is not a number: '999 to 10'",0
+2026-01-08 22:34:58.364 +0530,"Success",0:00:00,0,0,0,"20260108_223458.364/LogFile.txt","","",1
+2026-01-08 22:35:53.394 +0530,"Success",0:00:00,0,0,0,"20260108_223553.394/LogFile.txt","","",1
+2026-01-08 22:36:41.357 +0530,"Success",0:00:00,0,0,0,"20260108_223641.357/LogFile.txt","","",1
+2026-01-08 22:37:05.847 +0530,"Success",0:00:00,0,0,0,"20260108_223705.847/LogFile.txt","","",1
+2026-01-08 22:37:16.328 +0530,"Success",0:00:00,0,0,0,"20260108_223716.328/LogFile.txt","","",1
+2026-01-08 22:37:26.840 +0530,"Success",0:00:00,0,0,0,"20260108_223726.840/LogFile.txt","","",1
+2026-01-08 22:37:36.425 +0530,"Success",0:00:00,0,0,0,"20260108_223736.425/LogFile.txt","","",1
+2026-01-08 22:37:50.203 +0530,"Success",0:00:00,0,0,0,"20260108_223750.203/LogFile.txt","","",1
+2026-01-08 22:38:38.237 +0530,"Success",0:00:00,0,0,0,"20260108_223838.237/LogFile.txt","","",1
+2026-01-08 22:38:47.580 +0530,"Success",0:00:00,0,0,0,"20260108_223847.580/LogFile.txt","","",1
+2026-01-12 12:59:38.150 +0530,"Aborted",0:00:13,1,0,1,"20260112_125938.150/LogFile.txt","","",0

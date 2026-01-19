@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="RunTC_script" package="Demo Test Suite.suite" timestamp="2026-01-08 16:26:29.385 +0530"
+ tests="1"  failures="0" errors="0" time="12.311000">
+  <properties>
+   <property name="RunDate" value="2026-01-08 16:26:29.385 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="RunTC.script" assertions="1" status="failure"  time="12.299">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

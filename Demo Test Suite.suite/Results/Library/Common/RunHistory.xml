@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Library/Common">
+ <run>
+  <RunDate>2026-01-12 21:24:06.875 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.523000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_212406.875/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- WaitFor Error - Could Not Open Image: nopCommerce</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 21:25:08.503 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.810000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_212508.503/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-01-12 21:25:29.702 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>13.670000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260112_212529.702/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- set Error - Invalid Rectangle: 0</ErrorMessage>
+ </run>
+</runHistory>

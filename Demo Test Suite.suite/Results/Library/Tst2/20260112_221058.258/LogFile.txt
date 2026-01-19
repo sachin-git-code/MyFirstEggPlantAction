@@ -1,0 +1,3 @@
+﻿2026-01-12 22:10:58.269 +0530	START		Running Library/Tst2.script
+2026-01-12 22:10:58.383 +0530	EndTestCase		(Duration:"0.109", Errors:"1", Exceptions:"0", StartTime:"2026-01-12 22:10:58 +0530", Successes:"0", TestCase:"Library/Tst2.script", Warnings:"0")
+2026-01-12 22:10:58.836 +0530	FAILURE	Screen_Error.png	Workbook Error: Error loading workbook C:/Eggplant/Demo Test Suite.suite/Resources/Users/f3fe78/Documents/Eggie.xlsx: No such file or directory. -- Execution Time 0:00:00 Library/Tst2.script

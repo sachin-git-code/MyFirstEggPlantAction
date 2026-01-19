@@ -1,0 +1,13 @@
+﻿Common.OpenSite "https://demo.nopcommerce.com"
+
+set the searchRectangle to [175,250,1150,325]
+
+moveTo text:"Computers"
+wait 1 // Optimises OCR
+//click text:"Desktops"
+//wait 1.5 // Optimises OCR
+//waitfor 20, text:"Categories"
+
+put EveryImageLocation(Text:"Computers") into myvar
+
+log myvar

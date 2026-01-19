@@ -1,0 +1,15 @@
+﻿2026-01-13 15:44:02.042 +0530	START		Running NScript.script
+2026-01-13 15:44:02.911 +0530	doubleclick	Chrome	at (42, 643)	2	on_opensite	Common.script
+2026-01-13 15:44:10.620 +0530	waitfor	Refresh	found at (94, 60)	3	on_opensite	Common.script
+2026-01-13 15:44:11.681 +0530	typetext		https://demo.nopcommerce.com[returnKey]	4	on_opensite	Common.script
+2026-01-13 15:44:18.057 +0530	waitfor	nopCommerce	found at (315, 189)	5	on_opensite	Common.script
+2026-01-13 15:44:18.118 +0530	typetext		[windowsKey][upArrow]	6	on_opensite	Common.script
+2026-01-13 15:44:18.133 +0530	set		SEARCHRECTANGLE = [0,1,1919,625]	3	on_nscript	NScript.script
+2026-01-13 15:44:21.603 +0530	moveto	(TEXT:"Computers")	at (250, 290)	4	on_nscript	NScript.script
+2026-01-13 15:44:25.945 +0530	click	(TEXT:"Desktops")	at (260, 331)	6	on_nscript	NScript.script
+2026-01-13 15:44:29.859 +0530	waitfor	(TEXT:"Categories")	found at (243, 442)	8	on_nscript	NScript.script
+2026-01-13 15:44:32.482 +0530	doubleclick	(TEXT:"Categories")	at (243, 442)	9	on_nscript	NScript.script
+2026-01-13 15:44:33.243 +0530	typetext		[controlKey]c	10	on_nscript	NScript.script
+2026-01-13 15:44:33.555 +0530	Log		Categories	12	on_nscript	NScript.script
+2026-01-13 15:44:33.618 +0530	EndTestCase		(Duration:"31.565", Errors:"0", Exceptions:"0", StartTime:"2026-01-13 15:44:02 +0530", Successes:"1", TestCase:"NScript.script", Warnings:"0")
+2026-01-13 15:44:33.706 +0530	SUCCESS		Execution Time 0:00:31 NScript.script

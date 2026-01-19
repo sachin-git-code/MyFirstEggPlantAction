@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/xception.script",
+				"identifier": "START",
+				"timestamp": "2026-01-13 22:56:38.417 +0530"
+			},
+		{
+				"message": "(Duration:\"0.136\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-13 22:56:38 +0530\", Successes:\"0\", TestCase:\"Library/xception.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-13 22:56:38.559 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STFileSystemException: Failed to delete file or folder C:/Library1 (Error: (null)) -- Execution Time 0:00:00 Library/xception.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-13 22:56:38.982 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-13 22:56:38.421 +0530"
+}

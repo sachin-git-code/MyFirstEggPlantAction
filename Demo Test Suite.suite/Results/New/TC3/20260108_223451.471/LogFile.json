@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running New/TC3.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 22:34:51.476 +0530"
+			},
+		{
+				"message": "(Duration:\"0.122\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-08 22:34:51 +0530\", Successes:\"0\", TestCase:\"New/TC3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 22:34:51.602 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STInvalidNumber: Value is not a number: '999 to 10' -- Execution Time 0:00:00 New/TC3.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-01-08 22:34:51.991 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 22:34:51.479 +0530"
+}

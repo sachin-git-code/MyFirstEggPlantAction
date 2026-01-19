@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running New/TC3.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 22:37:16.332 +0530"
+			},
+		{
+				"message": "(Duration:\"0.08\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 22:37:16 +0530\", Successes:\"1\", TestCase:\"New/TC3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 22:37:16.417 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 New/TC3.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 22:37:16.514 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 22:37:16.335 +0530"
+}

@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.apitest",
+				"identifier": "START",
+				"timestamp": "2026-01-13 23:09:15.606 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2026-01-13 23:09:16.275 +0530",
+				"message": "Assertion Succeeded:  (assertion: api().statuscode is \"200\"; true: 200 IS equal to 200)",
+				"scriptName": "C:/Eggplant/Demo Test Suite.suite/APITests/Untitled.apitest",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2026-01-13 23:09:16.286 +0530",
+				"message": "{fact:\"A cat can jump up to five times its own height in a single bound.\", length:65}",
+				"scriptName": "C:/Eggplant/Demo Test Suite.suite/APITests/Untitled.apitest",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.692\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-13 23:09:15 +0530\", Successes:\"1\", TestCase:\"Untitled.apitest\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-13 23:09:16.302 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Untitled.apitest",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-13 23:09:16.332 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-13 23:09:15.610 +0530"
+}

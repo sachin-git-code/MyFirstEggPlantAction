@@ -1,0 +1,31 @@
+﻿//TypeText windowskey, r
+//Typetext saplogon.exe, returnkey
+
+//Set the assertionBehavior to "pause"
+
+Assert 3+3 < 10 
+
+//log "abc"
+
+set qut to "become poor by giving"
+
+Assert qut contains "rich"
+
+//log "abc"
+
+//put "AsrtPassCount:" & "to" & the assertionPassCount
+
+//put "AsrtFailCount:" & "to" & the assertionFailCount
+
+//MouseButtonDown 3
+
+//moveto [50,50]
+
+
+
+Put "Hello" into universal greeting
+
+log universal greeting
+
+
+

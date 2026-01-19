@@ -1,0 +1,98 @@
+{
+	"entries": [
+		{
+				"message": "Running NScript.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 21:36:32.611 +0530"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:36:33.048 +0530",
+				"scriptName": "Common.script",
+				"message": "at (42, 643)",
+				"image": "Chrome",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:36:35.380 +0530",
+				"scriptName": "Common.script",
+				"message": "found at (94, 60)",
+				"image": "Refresh",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:36:36.277 +0530",
+				"message": "https://demo.nopcommerce.com[returnKey]",
+				"scriptName": "Common.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:36:37.750 +0530",
+				"scriptName": "Common.script",
+				"message": "found at (315, 189)",
+				"image": "nopCommerce",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:36:37.810 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_nscript",
+				"timestamp": "2026-01-12 21:36:37.843 +0530",
+				"message": "SEARCHRECTANGLE = [0,1,1919,625]",
+				"scriptName": "NScript.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_nscript",
+				"timestamp": "2026-01-12 21:36:39.951 +0530",
+				"scriptName": "NScript.script",
+				"message": "at (250, 290)",
+				"image": "(TEXT:\"Computers\")",
+				"handlerLine": 4,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_nscript",
+				"timestamp": "2026-01-12 21:36:42.454 +0530",
+				"scriptName": "NScript.script",
+				"message": "at (260, 331)",
+				"image": "(TEXT:\"Desktops\")",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_nscript",
+				"timestamp": "2026-01-12 21:36:45.314 +0530",
+				"scriptName": "NScript.script",
+				"message": "found at (243, 442)",
+				"image": "(TEXT:\"Categories\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"12.757\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-12 21:36:32 +0530\", Successes:\"1\", TestCase:\"NScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 21:36:45.371 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:12 NScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-12 21:36:45.482 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 21:36:32.614 +0530"
+}

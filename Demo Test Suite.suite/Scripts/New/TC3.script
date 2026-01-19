@@ -1,0 +1,47 @@
+﻿put "hello" into greet
+put greet
+
+put "yo" before greet
+put greet
+
+put "sup" after greet
+put greet
+
+put today into curdate
+
+put curdate
+
+add 1 day to curdate
+
+put curdate
+
+put random of 999 into rdnum
+put rdnum
+
+add 0.60 to rdnum
+
+put rdnum
+
+set rdnum's format to "000.000"
+
+put rdnum
+
+set rdnum's format to "Words"
+
+put rdnum
+
+put 
+
+Log "Beginning SUT initialization" // Writes the text you provide to the script log
+
+Click "ChromeIcon"
+Log FoundImageInfo() // Writes the returned value of the function to the log, in this case details about the last image found
+
+Log the result // Displays how long it took to find the image
+
+ReadText[9,597,70,677]
+
+Set the searchRectangle to [5,550,75,680]
+
+Click text:"Google Chrome"
+

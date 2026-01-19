@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 13:05:58.866 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-12 13:05:59.006 +0530",
+				"message": "Assertion Succeeded:  (assertion: 3+3 < 10; true: 6 IS less than 10)",
+				"scriptName": "TC1.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-12 13:05:59.020 +0530",
+				"message": "Hello",
+				"scriptName": "TC1.script",
+				"handlerLine": 28,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.264\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-12 13:05:58 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 13:05:59.136 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-12 13:05:59.222 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 13:05:58.870 +0530"
+}

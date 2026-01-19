@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-08 15:11:34.579 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-08 15:11:34.826 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "TC1.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"0.398\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-08 15:11:34 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-08 15:11:34.993 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-08 15:11:35.156 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-08 15:11:34.591 +0530"
+}

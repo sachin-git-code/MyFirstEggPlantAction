@@ -1,0 +1,13 @@
+﻿put{name:"sachin",age:"10",gender:"male"} into Resource1
+
+log Resource1
+
+delete Resource1.gender
+
+log Resource1
+
+put 123 into Resource1.abc
+
+log Resource1
+
+

@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running NScript.script",
+				"identifier": "START",
+				"timestamp": "2026-01-12 21:35:56.125 +0530"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:35:56.650 +0530",
+				"scriptName": "Common.script",
+				"message": "at (42, 642)",
+				"image": "Chrome",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-12 21:36:24.680 +0530",
+				"scriptName": "Common.script",
+				"message": "Unable To Find Any Image On Screen \"Refresh\" within 20.00 seconds",
+				"image": "Refresh",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"28.636\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-01-12 21:35:56 +0530\", Successes:\"0\", TestCase:\"NScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-12 21:36:24.765 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:28 NScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-12 21:36:24.775 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-12 21:35:56.128 +0530"
+}

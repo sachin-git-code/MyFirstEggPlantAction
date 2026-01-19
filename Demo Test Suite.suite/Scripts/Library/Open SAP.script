@@ -1,0 +1,6 @@
+﻿DoubleClick "SAPLogonIcon"
+
+
+typetext controlkey,r
+typetext "saplogon.exe", returnkey
+

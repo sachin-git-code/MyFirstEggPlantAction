@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-01-13 15:36:49.733 +0530,"Aborted",0:01:06,1,0,1,"20260113_153649.733/LogFile.txt","","",0
+2026-01-13 15:37:57.910 +0530,"Success",0:00:12,0,0,0,"20260113_153757.910/LogFile.txt","","",1
+2026-01-13 15:38:21.944 +0530,"Success",0:00:14,0,0,0,"20260113_153821.944/LogFile.txt","","",1

@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2026-01-06 11:30:50.319 +0530"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-06 11:30:50.484 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "TC1.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-06 11:30:55.872 +0530",
+				"message": "saplogon.exe",
+				"scriptName": "TC1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_tc1",
+				"timestamp": "2026-01-06 11:31:00.917 +0530",
+				"message": "[return]",
+				"scriptName": "TC1.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"10.638\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-06 11:30:50 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-06 11:31:00.967 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-06 11:31:01.101 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-06 11:30:50.326 +0530"
+}

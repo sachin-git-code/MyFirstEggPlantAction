@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Library/Common_script" package="Demo Test Suite.suite" timestamp="2026-01-12 21:24:06.875 +0530"
+ tests="1"  failures="1" errors="1" time="3.523000">
+  <properties>
+   <property name="RunDate" value="2026-01-12 21:24:06.875 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Library/Common.script" assertions="1" status="error"  time="3.507">
+    <failure type="FAILURE" message="File Not Found: WaitFor Error - Could Not Open Image: nopCommerce -- Execution Time 0:00:03 Library/Common.script" />
+    <error type="Exception" message="Could Not Open Image: nopCommerce" />
+  </testcase>
+ </testsuite>
+</testsuites>

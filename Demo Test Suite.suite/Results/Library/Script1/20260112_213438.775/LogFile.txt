@@ -1,0 +1,3 @@
+﻿2026-01-12 21:34:38.784 +0530	START		Running Library/Script1.script
+2026-01-12 21:34:38.969 +0530	EndTestCase		(Duration:"0.179", Errors:"1", Exceptions:"0", StartTime:"2026-01-12 21:34:38 +0530", Successes:"0", TestCase:"Library/Script1.script", Warnings:"0")
+2026-01-12 21:34:39.401 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'opensite' -- Execution Time 0:00:00 Library/Script1.script

@@ -1,0 +1,19 @@
+﻿Common.OpenSite "https://demo.nopcommerce.com"
+
+set the searchRectangle to [0,1,1919,625]
+moveTo text:"Computers"
+wait 1 // Optimises OCR
+click text:"Desktops"
+wait 1.5 // Optimises OCR
+waitfor 20, text:"Categories"
+
+
+Put "Record 5 of 9" into myString
+Put characters last to last of myString into lastChar
+Log lastChar
+
+put "Sales Order 1234 create" into originalString
+
+replace all characters not in "0123456789" in originalString with ""
+put originalString into orderNumber
+log orderNumber 

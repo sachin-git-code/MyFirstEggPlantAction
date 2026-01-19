@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running NScript.script",
+				"identifier": "START",
+				"timestamp": "2026-01-13 15:43:40.726 +0530"
+			},
+		{
+				"handlerName": "on_opensite",
+				"timestamp": "2026-01-13 15:43:43.404 +0530",
+				"scriptName": "Common.script",
+				"message": "at (42, 642)",
+				"image": "Chrome",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"19.562\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-01-13 15:43:40 +0530\", Successes:\"0\", TestCase:\"NScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-13 15:44:00.331 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:19 NScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-01-13 15:44:00.359 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-13 15:43:40.763 +0530"
+}

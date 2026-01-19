@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Library/xception.script",
+				"identifier": "START",
+				"timestamp": "2026-01-13 23:00:28.808 +0530"
+			},
+		{
+				"message": "(Duration:\"0.196\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-01-13 23:00:28 +0530\", Successes:\"1\", TestCase:\"Library/xception.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-01-13 23:00:29.007 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Library/xception.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-01-13 23:00:29.080 +0530"
+			}
+	],
+	"createdTimestamp": "2026-01-13 23:00:28.810 +0530"
+}

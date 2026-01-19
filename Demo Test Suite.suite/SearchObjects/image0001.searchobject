@@ -1,0 +1,50 @@
+{
+	"originalcapturelocation": [
+		71,
+		203,
+		79,
+		74
+	],
+	"lastmodifieddate": 1767865174.105,
+	"createddate": 1767865091.596,
+	"name": "image0001",
+	"lastfounddate": 1767865091.812,
+	"ocrcapturestring": "*",
+	"lastfoundlocation": [
+		71,
+		203,
+		79,
+		74
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 49765,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[39,37]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "image0001.png",
+				"connectionname": "Sachin's playground",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					71,
+					203,
+					79,
+					74
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "*"
+			}
+	]
+}
